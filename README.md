@@ -3,8 +3,8 @@
 
 <div>
     <img align="left" alt="Kauê-pic" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/953285494870003737/953285548817145866/download20220302103243.png">
-    <p>- 🎯 Focado em Back End Python</p>
-    <p>- 😎 Aprofundando Estudos em Django</p>
+    <p>- 🎯 Desenvolvedor Fullstack</p>
+    <p>- 😎 Cargo: Desenvolvedor Autônomo </p>
     <p>- 🙃 Cursando Analise e Desenvolvimento de Sistemas</p>
 </div>
 
