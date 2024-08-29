@@ -4,7 +4,7 @@
 <div>
     <!-- <img align="left" alt="Kauê-pic" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/953285494870003737/953285548817145866/download20220302103243.png"> !-->
     <p>- 🎯 Estudando: React - Front End</p>
-    <p>- 😎 Cargo: Desenvolvedor Fullstack Pleno </p>
+    <p>- 😎 Cargo: Desenvolvedor Fullstack </p>
     <p>- 🙃 Formado em Analise e Desenvolvimento de Sistemas</p>
 </div>
 
